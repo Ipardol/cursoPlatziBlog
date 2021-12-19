@@ -7,3 +7,19 @@
 #preocupacion por votaciones
 #ojala gane Kast
 #viva Kast!
+***
+usar git
+
+usar el comnado
+
+git init #crea un espacio en memoria ram para futuros cambios
+
+usando el comando
+
+git add #en cualquier archivo deja los cambios en staging en memoria ram
+
+para completar los cambios debes
+
+git commit -m "mensaje del cambio"
+
+
